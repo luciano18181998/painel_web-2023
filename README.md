@@ -24,10 +24,10 @@ apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/luciano1
 
 # 🚀IMAGENS DO PAINEL:
 
-![Screenshot_23](https://prnt.sc/zhS_fvh6-qQj)
+![Screenshot_23](https://i.imgur.com/T3XWLCl.png)
 
-![Screenshot_1](https://prnt.sc/G5xZBrOiHWIC)
+![Screenshot_1](https://i.imgur.com/ArPcNBC.png)
 
-![Screenshot_2](https://prnt.sc/JqFdR_1DvRiZ)
+![Screenshot_2](https://i.imgur.com/iD7JHFi.png)
 
 
