@@ -7,7 +7,7 @@
 
 # 🚀COMANDO DE INSTALAÇÃO, SÓ COPIAR E COLAR:
 ```
-bash <(wget -qO- https://github.com/JeanRocha91x/painel_web_v5/raw/main/PainelWebV5/ubuinst.sh)
+bash <(wget -qO- https://github.com/luciano18181998/painel_web-2023/raw/main/painel_web-2023/ubuinst.sh)
 ```
 
 # 🔑CHAVE DE INSTALAÇÃO:
