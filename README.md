@@ -24,7 +24,7 @@ apt install wget -y; bash <(wget -qO- https://github.com/JeanRocha91x/painel_web
 
 # 🚀IMAGENS DO PAINEL:
 
-![Screenshot_23](https://user-images.githubusercontent.com/105602625/195569074-79159686-6844-4078-a7c5-8ffd8d15cc43.jpg)
+![Screenshot_23]()
 
 ![Screenshot_1](https://user-images.githubusercontent.com/105602625/195569106-32bfbd55-830c-492d-92b2-452bd5132da5.jpg)
 
