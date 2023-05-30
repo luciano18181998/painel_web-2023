@@ -19,15 +19,15 @@ bash <(wget -qO- https://github.com/JeanRocha91x/painel_web_v5/raw/main/PainelWe
 <h3><b>⚠(Executar na VPS do Painel SSH)⚠</b></h3>
 
 ```
-apt install wget -y; bash <(wget -qO- https://github.com/JeanRocha91x/painel_web_v5/raw/main/PainelWebV5/sincpainel.sh)
+apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/luciano18181998/painel_web-2023/main/painel_web-2023/sincpainel.sh)
 ```
 
 # 🚀IMAGENS DO PAINEL:
 
-![Screenshot_23]()
+![Screenshot_23](https://prnt.sc/zhS_fvh6-qQj)
 
-![Screenshot_1](https://user-images.githubusercontent.com/105602625/195569106-32bfbd55-830c-492d-92b2-452bd5132da5.jpg)
+![Screenshot_1](https://prnt.sc/G5xZBrOiHWIC)
 
-![Screenshot_2](https://user-images.githubusercontent.com/105602625/195569126-7334db72-c314-4989-a755-c6c7bf949401.jpg)
+![Screenshot_2](https://prnt.sc/JqFdR_1DvRiZ)
 
 
